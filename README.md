@@ -56,11 +56,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chouayb-lkh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouayb-lkh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=chouayb-lkh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
