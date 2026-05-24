@@ -55,10 +55,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Chouayb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chouayb-lkh&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chouayb-lkh&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=chouayb-lkh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouayb-lkh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
