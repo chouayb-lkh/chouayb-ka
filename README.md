@@ -61,16 +61,23 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### 🌐 Networking
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-0052CC?style=for-the-badge&logoColor=white)
 
-### 🤖 AI & Data
+### 🤖 AI & Machine Learning
+![SVD](https://img.shields.io/badge/SVD-Collaborative_Filtering-7C3AED?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Groq_llama3.1-FF6B35?style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 💬 LLM & Generative AI
+![Groq](https://img.shields.io/badge/Groq_API-llama--3.1--8b-F54E00?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge&logoColor=white)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation_Systems-10B981?style=for-the-badge&logoColor=white)
 
 ---
 
