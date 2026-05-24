@@ -56,10 +56,9 @@
 
 <div align="center">
   
-![Chouayb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chouayb-lkh&show_icons=true&theme=tokyonight&hide_border=true)
+![Chouayb's GitHub stats](https://github-readme-stats.vercel.app/api?username=chouayb-ka&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chouayb-lkh&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chouayb-ka&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ---
